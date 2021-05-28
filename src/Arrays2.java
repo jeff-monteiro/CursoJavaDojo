@@ -6,14 +6,10 @@ public class Arrays2 {
         //reference null
         //IMPORTANTE: O Array não pode mudar de tamanho uma vez criado.
 
-        String[] nomes = new String[4];
-        nomes[0] = "Goku";
-        nomes[1] = "Ichigo";
-        nomes[2] = "Kenpachi";
-        nomes[3] = "Rukia";
+        String[] nomes = new String[]{"Goku","Ichigo","Kenpachi","Rukia"};
 
-        for(int i=0; i<nomes.length; i++){
-            System.out.println(nomes[i]);
+        for(String aux : nomes){
+            System.out.println(aux);
         }
     }
 }
