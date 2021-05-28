@@ -5,7 +5,7 @@ public class Arrays1 {
         //É necessário sempre definir o tamanho do Array.
         //A palavra new é utilizada para criar objetos, então só utilizada quando houver Arrays.
 
-        //Sintáxe para se criar Arrays.
+        //Sintaxe para se criar Arrays.
         int[] idade = new int[3];
         idade[0] = 21;
         idade[1] = 19;
