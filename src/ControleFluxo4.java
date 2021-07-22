@@ -5,7 +5,7 @@ public class ControleFluxo4 {
 		//Estrutura de repetição com do/while.
 		//Estrutura de repetição com for.
 		int contador = 0;
-		while(contador < 10) {//Ele só vai executar quando a condição for verdadeira.
+		while(contador < 10) {//Ele só vai executar enquanto a condição for verdadeira.
 			System.out.println("Deu merda");
 			contador ++;
 		}
