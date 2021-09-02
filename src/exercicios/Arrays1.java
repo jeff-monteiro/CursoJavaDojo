@@ -1,3 +1,5 @@
+package exercicios;
+
 public class Arrays1 {
     public static void main(String[] args){
         //Qualquer Array em Java é considerado sempre um objeto exemplo: idade.

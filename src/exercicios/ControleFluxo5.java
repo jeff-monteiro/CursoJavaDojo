@@ -1,3 +1,5 @@
+package exercicios;
+
 public class ControleFluxo5 {
     public static void main(String[] args){
         //Dado o valor de um carro, descubra em quantas vezes ele pode ser parcelado.

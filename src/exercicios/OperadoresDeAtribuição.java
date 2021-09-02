@@ -1,3 +1,5 @@
+package exercicios;
+
 public class OperadoresDeAtribuição {
     public static void main(String[] args) {
         // =, -=, +=, *=, /=, %=

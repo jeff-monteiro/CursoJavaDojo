@@ -1,3 +1,5 @@
+package exercicios;
+
 public class ExercicioControleFluxo3 {
     public static void main(String[] args){
         //Imprima todos os números pares até 100000.

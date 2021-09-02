@@ -1,3 +1,4 @@
+package exercicios;
 
 public class ControleFluxo3 {
 	public static void main(String[]args) {

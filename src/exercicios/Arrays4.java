@@ -1,3 +1,5 @@
+package exercicios;
+
 public class Arrays4 {
     public static void main(String[] args){
         String[] nomes = {"Jefferson", "Karoliny", "Joelma", "Giovanni"};
