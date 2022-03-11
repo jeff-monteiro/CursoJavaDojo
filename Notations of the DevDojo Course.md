@@ -11,5 +11,13 @@
  
  - String em Java é uma classe, portanto deve ser sempre usada com a primeira letra maiúscula.
  
- -                                  
+ - Operadores
+ 
+ --> Aritméticos: _** +, -, *, /, % **_
+ 
+ --> Relacionais: _**< > <= >= == != **_
+ 
+ 
+  
+                                   
                          

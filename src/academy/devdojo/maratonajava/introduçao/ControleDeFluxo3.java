@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.introduçao;
 import java.util.Scanner;
 
-public class ControleFluxo3 {
+public class ControleDeFluxo3 {
 	public static void main(String[]args) {
 
 		System.out.println("Qual o dia da semana você quer trabalhar remotamente?");

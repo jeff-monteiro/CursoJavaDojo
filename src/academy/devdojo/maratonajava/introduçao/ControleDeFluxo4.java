@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introduçao;
 
-public class ControleFluxo4 {
+public class ControleDeFluxo4 {
 	public static void main(String[]args) {
 		//Estrutura de repetição com while.
 		//Estrutura de repetição com do/while.

@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introduçao;
+package academy.devdojo.maratonajava.exercicios;
 
 public class ExercicioControleFluxo3 {
     public static void main(String[] args){
