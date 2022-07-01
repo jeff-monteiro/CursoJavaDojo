@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.introduçao;
 
 public class Arrays1 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //Qualquer Array em Java é considerado sempre um objeto exemplo: idade.
         //Utilizando Arrays é sempre criada uma Variável de referência.
         //É necessário sempre definir o tamanho do Array.
