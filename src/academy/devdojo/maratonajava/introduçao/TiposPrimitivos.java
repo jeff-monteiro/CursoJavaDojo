@@ -6,6 +6,7 @@ public class TiposPrimitivos {
 
         int age = 10;
         double wageDouble = 2000.05;
+        // Doing casting
         float wageFloat = (float)2500.01;
         short ageShort = 10;
         byte ageByte = 11;
